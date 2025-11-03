@@ -7,7 +7,7 @@ pipeline {
     }
     
     environment {
-        WAR_FILE = 'C:/ProgramData/Jenkins/.jenkins/workspace/zaid/target/roshambo.war'
+        WAR_FILE = 'C:\ProgramData\Jenkins\.jenkins\workspace\practical-5\target\roshambo.war'
         TOMCAT_URL = 'http://localhost:8070'
     }
     
